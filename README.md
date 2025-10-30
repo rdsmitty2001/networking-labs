@@ -1,6 +1,6 @@
 # Week 1 — OSI, VLANs, Static Routes & ACLs
 
-![Network Topology](./images/topology.png)
+[Network Topology](./images/topology.png)
 
 Networking Fundamentals Lab Report
 
@@ -118,7 +118,7 @@ int g0/1
  switchport mode trunk
  switchport trunk allowed vlan 10,20
 
- ![VLAN Configuration](./images/vlan-setup.png)
+[VLAN Configuration](./images/vlan-setup.png)
 
 **Explanation:** The screenshot shows VLAN10 and VLAN20 assignments on Switch0 and trunking to Router0.
 
