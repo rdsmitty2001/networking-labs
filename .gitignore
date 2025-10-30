@@ -1,0 +1,18 @@
+# Ignore system files
+desktop.ini
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+
+# Ignore Packet Tracer backups
+*.pkt.bak
+*.pkz
+
+# Ignore VS Code settings (if using)
+.vscode/
+
+# Ignore any compiled or hidden files
+.DS_Store
