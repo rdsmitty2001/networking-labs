@@ -8,7 +8,7 @@ Author: Robert Smith
 Tools Used: Cisco Packet Tracer, Wireshark
 Goal: Build foundational networking knowledge and apply concepts in hands-on labs to prepare for advanced studies in cybersecurity and ethical hacking.
 
-🧠 Day 1 — OSI & TCP/IP Layers + Basic Topology
+<b>🧠 Day 1 — OSI & TCP/IP Layers + Basic Topology</b>
 
 Study Topics:
 
